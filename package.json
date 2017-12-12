@@ -1,0 +1,7 @@
+{
+  "name": "boulder-dash",
+  "version": "0.0.1",
+  "dependencies": {
+    "dash-button": "^3.2.0"
+  }
+}
